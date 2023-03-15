@@ -1,6 +1,8 @@
 # HMDA-EnsembleLearning
 Analysis of HMDA using ensemble learning algorithms.
+***Unable to upload to GitHub because the data file is too large, it can be obtained from here：[Dataset](https://www.dropbox.com/s/6e9xy2dag8o3kph/Washington_State_HDMA-2016.csv?dl=0)***
 
+:[complete dataset](https://www.kaggle.com/datasets/miker400/washington-state-home-mortgage-hdma2016)
 HMDA (The Home Mortgage Disclosure Act) is a bill in the United States, which stipulates that financial institutions must disclose the data of mortgage loans to the whole society. These data help show whether lenders are serving customers with real housing-related needs. Analysis of these data can assist government officials in their decision-making and potentially reveal some discriminatory lending patterns. The original data contains a total of 47 variables, and the target variable is action_taken_name, which can be simply understood as the result of applying for a loan. The main goal of this case is to explore whether certain information or behaviors of the applicant will affect the prediction of the final loan grant, so that Show a complete data mining process. (Washington_State_HDMA-2016.csv)
 
 
