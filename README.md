@@ -19,7 +19,8 @@ HMDA (The Home Mortgage Disclosure Act) is a bill in the United States, which st
 
 This project follows the general process of data mining. First, read the data that has been downloaded locally. After regular exploration, perform data preprocessing, and then directly select the decision tree, random forest, GDBT, and XGBoost algorithms in the sklearn module for modeling , select a model with outstanding performance for further parameter tuning optimization, and finally confirm the model and make predictions.
 
-![image](https://user-images.githubusercontent.com/68887123/225375182-3efdb644-3ad7-4d55-9933-609b82569e07.png)
-
+<p align="center">
+  <img src="https://github.com/OceansStill/HMDA-EnsembleLearning/blob/main/picture.png" />
+</p>
 
 This project mainly introduces how to conduct modeling analysis for the actual classification problem, and uses various methods for model comparison, and finally chooses the XGBoost algorithm for model training, and then predicts the results of customer applications for loan products. In terms of model parameter optimization, the grid search method is used to search for the optimal model parameters, so as to find the optimal model parameters and effectively improve the accuracy of the model. The experimental results show that this process can be used to predict and analyze such classification problems, and the effect is relatively good. It can be used as an effective means to solve this kind of data analysis and mining algorithms. Of course, there is still room for improvement in model accuracy. Learners can use the knowledge they have learned in feature engineering, model selection, and model parameter optimization to find the optimal model and obtain a better classification model.
