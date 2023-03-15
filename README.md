@@ -1,5 +1,5 @@
 # HMDA-EnsembleLearning
-Analysis of HMDA using ensemble learning algorithms.
+Analysis of HMDA dataset using ensemble learning algorithms.
 
 _________________
 
