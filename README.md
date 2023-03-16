@@ -3,13 +3,13 @@ Analysis of HMDA dataset using ensemble learning algorithms.
 
 _________________
 
-***Unable to upload to GitHub because the data file is too large, it can be obtained from here：[Dataset](https://www.dropbox.com/s/6e9xy2dag8o3kph/Washington_State_HDMA-2016.csv?dl=0)***
+**Unable to upload to GitHub because the data file is too large, it can be obtained from here：[Dataset](https://www.dropbox.com/s/6e9xy2dag8o3kph/Washington_State_HDMA-2016.csv?dl=0)**
 
 _________________
 
 
-***You can also download it from the official website of kaggle：
-[Complete Dataset](https://www.kaggle.com/datasets/miker400/washington-state-home-mortgage-hdma2016)***
+**You can also download it from the official website of kaggle：
+[Complete Dataset](https://www.kaggle.com/datasets/miker400/washington-state-home-mortgage-hdma2016)**
 
 _________________
 
